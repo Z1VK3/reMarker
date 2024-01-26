@@ -1,6 +1,6 @@
 {
    "name":"reMarker",
-   "version":"0.3",
+   "version":"0.4",
    "manifest_version":2,
    "description":"Read full articles on Haaretz and TheMarker websites",
    "homepage_url":"https://github.com/gorshco/reMarker",
